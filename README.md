@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prakhar Rustagi</h1>
 <h3 align="center">Aspiring Data Scientist - Ex Data Engineer (Client:The Kraft Heinz)</h3>
 
-<img align="right" alt="coding" width="400" src=["https://user"https://camo.githubusercontent.com/0027fe266ec97adf8508c9454aa63ad4cf7af9be26f8ab83fcaf52d174ca4941/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30322f4469676974616c2d4d61726b6574696e672d57726974652d466f722d55732e676966](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGFFS3E1TXBfSml2VmwxeUxSQzJSQWFYcDRZUXxBQ3Jtc0trOHE2eWI1Q2ZLd2hLY2wwd1MxVkFOWWVldGpwVjNMQnk1ZF9rQ0ROVUlNdVVSZlo2VXBRYk55R3JXRVZ0R1NCZjNhNDF1MU8zaFktckduM3NTd045Qk02WmJvSDk0Vy1FUG9mVFVqbW96QzRfeXBocw&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0)">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🌱 I’m currently learning **Data Science and Analytics at University of North Texas**
 
